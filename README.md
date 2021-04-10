@@ -12,7 +12,7 @@
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1iYcQFZaecHQf7XRGv4LKNE-O_342VAxm6omQcaJTdQI/edit?usp=sharing"> ppt link here </a>
+  <a href="https://docs.google.com/presentation/d/1iYcQFZaecHQf7XRGv4LKNE-O_342VAxm6omQcaJTdQI/edit?usp=sharing"> Our ppt </a>
   
 ## Contributors:
 
@@ -20,8 +20,8 @@ Team Name: Codesquad
 
 * [Saloni Srivastava](https://github.com/salonisri1733)
 * [Sansriti Maurya](https://github.com/sansriti14)
-* [Pranjul Mishra](https://github.com/shashwat1998)
-* [Sejal Sobhani](https://github.com/ManasUniyal)
+* [Pranjul Mishra](https://github.com/pranjulmishra1283)
+* [Sejal Sobhani](https://github.com/sejal-sket)
 
 
 ### Made at:
